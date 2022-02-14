@@ -1,7 +1,7 @@
 # Syracuse University - M.S. Applide Data Science
 
 ### Charlie Lee (Cherngywh)
-### 334280765
+### SUID 334280765
 ### clee61@syr.edu, cherngywh@gmail.com
 
 ## Description
